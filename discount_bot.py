@@ -12,9 +12,9 @@ bot = Bot(token, parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot)
 
 
-@dp.message_handler(commands=['start'])
+@dp.message_handler(commands=['start', 'help'])
 async def start(message: types.Message):
-    start_buttons = ['Кроссовки', 'Видеокарта', 'Гречка']
+    start_buttons = ['Кроссовки', 'Видеокарта', 'Гречка', 'Можливості', 'Retro`']
     keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
     keyboard.add(*start_buttons)
     await message.answer('Товари зі знижкою', reply_markup=keyboard)

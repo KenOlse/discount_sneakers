@@ -1,16 +1,8 @@
 [
     {
-        "title": "CROSS HIKE MID GTX",
-        "category": "Пеший туризм",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/33310/",
-        "price_base": 15490,
-        "price_sale": 10790,
-        "discount_persent": 30
-    },
-    {
-        "title": "CROSS HIKE MID GTX",
-        "category": "Пеший туризм",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/15794/",
+        "title": "ODYSSEY ADVANCED",
+        "category": "Повседневный стиль",
+        "link": "https://salomon.ru/catalog/zhenshchiny/kollektsii/kollektsiya_advanced/46640/",
         "price_base": 15490,
         "price_sale": 10790,
         "discount_persent": 30
@@ -24,19 +16,19 @@
         "discount_persent": 30
     },
     {
-        "title": "ODYSSEY ADVANCED",
-        "category": "Повседневный стиль",
-        "link": "https://salomon.ru/catalog/zhenshchiny/kollektsii/kollektsiya_advanced/46640/",
+        "title": "CROSS HIKE MID GTX",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/15794/",
         "price_base": 15490,
         "price_sale": 10790,
         "discount_persent": 30
     },
     {
-        "title": "XA PRO 3D v8 GTX",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/46465/",
-        "price_base": 13990,
-        "price_sale": 9790,
+        "title": "CROSS HIKE MID GTX",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/33310/",
+        "price_base": 15490,
+        "price_sale": 10790,
         "discount_persent": 30
     },
     {
@@ -48,12 +40,28 @@
         "discount_persent": 50
     },
     {
+        "title": "XA PRO 3D v8 GTX",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/46465/",
+        "price_base": 13990,
+        "price_sale": 9790,
+        "discount_persent": 30
+    },
+    {
         "title": "SPEEDCROSS 5 GTX",
         "category": "Трейлраннинг",
         "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/33113/",
         "price_base": 13990,
         "price_sale": 9790,
         "discount_persent": 30
+    },
+    {
+        "title": "WINGS SKY GTX",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/106926/",
+        "price_base": 13990,
+        "price_sale": 6990,
+        "discount_persent": 50
     },
     {
         "title": "SENSE PRO 4",
@@ -72,20 +80,20 @@
         "discount_persent": 31
     },
     {
-        "title": "CROSS PRO",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/1234/",
-        "price_base": 14490,
-        "price_sale": 7190,
-        "discount_persent": 50
-    },
-    {
         "title": "XA WILD GTX",
         "category": "Трейлраннинг",
         "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/12276/",
         "price_base": 13990,
         "price_sale": 9790,
         "discount_persent": 30
+    },
+    {
+        "title": "CROSS PRO",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/1234/",
+        "price_base": 14490,
+        "price_sale": 7190,
+        "discount_persent": 50
     },
     {
         "title": "WILDCROSS GTX",
@@ -125,6 +133,22 @@
         "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/17347/",
         "price_base": 11990,
         "price_sale": 8390,
+        "discount_persent": 30
+    },
+    {
+        "title": "OUTline Prism GTX",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/71713/",
+        "price_base": 11490,
+        "price_sale": 7990,
+        "discount_persent": 30
+    },
+    {
+        "title": "XA PRO 3D v8",
+        "category": "Туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/106782/",
+        "price_base": 11490,
+        "price_sale": 7990,
         "discount_persent": 30
     },
     {
@@ -168,51 +192,19 @@
         "discount_persent": 50
     },
     {
-        "title": "XA WILD",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/35055/",
-        "price_base": 11490,
-        "price_sale": 7990,
-        "discount_persent": 30
-    },
-    {
-        "title": "XA WILD",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/4240/",
-        "price_base": 11490,
-        "price_sale": 7990,
-        "discount_persent": 30
-    },
-    {
-        "title": "XA WILD",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/34986/",
-        "price_base": 11490,
-        "price_sale": 3390,
-        "discount_persent": 70
-    },
-    {
-        "title": "OUTline Prism GTX",
-        "category": "Пеший туризм",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/71713/",
-        "price_base": 11490,
-        "price_sale": 7990,
-        "discount_persent": 30
-    },
-    {
-        "title": "XA PRO 3D v8",
-        "category": "Туризм",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/106782/",
-        "price_base": 11490,
-        "price_sale": 7990,
-        "discount_persent": 30
-    },
-    {
         "title": "SONIC 4 BALANCE",
         "category": "Бег по асфальту",
         "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/31008/",
         "price_base": 10990,
         "price_sale": 7690,
+        "discount_persent": 30
+    },
+    {
+        "title": "XA PRO 3D",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/34607/",
+        "price_base": 9990,
+        "price_sale": 6990,
         "discount_persent": 30
     },
     {
@@ -224,19 +216,19 @@
         "discount_persent": 30
     },
     {
+        "title": "X ULTRA 4",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/46605/",
+        "price_base": 10990,
+        "price_sale": 5490,
+        "discount_persent": 50
+    },
+    {
         "title": "XA PRO STREET ADV",
         "category": "Повседневный стиль",
         "link": "https://salomon.ru/catalog/zhenshchiny/kollektsii/kollektsiya_advanced/46579/",
         "price_base": 10990,
         "price_sale": 7690,
-        "discount_persent": 30
-    },
-    {
-        "title": "XA PRO 3D",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/34607/",
-        "price_base": 9990,
-        "price_sale": 6990,
         "discount_persent": 30
     },
     {
@@ -264,22 +256,6 @@
         "discount_persent": 30
     },
     {
-        "title": "X RAISE",
-        "category": "Пеший туризм",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/35001/",
-        "price_base": 9990,
-        "price_sale": 6990,
-        "discount_persent": 30
-    },
-    {
-        "title": "SENSE FLOW 2",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/56477/",
-        "price_base": 9990,
-        "price_sale": 4990,
-        "discount_persent": 50
-    },
-    {
         "title": "XA ROGG GTX",
         "category": "Пеший туризм",
         "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/15457/",
@@ -294,6 +270,38 @@
         "price_base": 11490,
         "price_sale": 7990,
         "discount_persent": 30
+    },
+    {
+        "title": "WILDCROSS",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/15576/",
+        "price_base": 11490,
+        "price_sale": 5690,
+        "discount_persent": 50
+    },
+    {
+        "title": "WILDCROSS",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/71530/",
+        "price_base": 11490,
+        "price_sale": 5690,
+        "discount_persent": 50
+    },
+    {
+        "title": "X RAISE",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/35001/",
+        "price_base": 9990,
+        "price_sale": 6990,
+        "discount_persent": 30
+    },
+    {
+        "title": "SENSE FLOW 2",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/56477/",
+        "price_base": 9990,
+        "price_sale": 4990,
+        "discount_persent": 50
     },
     {
         "title": "ULTRA /PRO",
@@ -328,12 +336,12 @@
         "discount_persent": 50
     },
     {
-        "title": "CROSSAMPHIBIAN SWIFT 2",
-        "category": "Водные виды спорта",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/sandalii_i_akvashuz/56703/",
+        "title": "PREDICT MOD",
+        "category": "",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/35089/",
         "price_base": 7990,
-        "price_sale": 3990,
-        "discount_persent": 50
+        "price_sale": 5590,
+        "discount_persent": 30
     },
     {
         "title": "CROSSAMPHIBIAN SWIFT 2",
@@ -346,23 +354,31 @@
     {
         "title": "CROSSAMPHIBIAN SWIFT 2",
         "category": "Водные виды спорта",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/sandalii_i_akvashuz/56703/",
+        "price_base": 7990,
+        "price_sale": 3990,
+        "discount_persent": 50
+    },
+    {
+        "title": "CROSSAMPHIBIAN SWIFT 2",
+        "category": "Водные виды спорта",
         "link": "https://salomon.ru/catalog/muzhchiny/obuv/sandalii_i_akvashuz/111947/",
         "price_base": 7990,
         "price_sale": 3990,
         "discount_persent": 50
     },
     {
-        "title": "SENSE FEEL 2",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/56492/",
+        "title": "AMPHIB BOLD 2",
+        "category": "",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/sandalii_i_akvashuz/71698/",
         "price_base": 7990,
         "price_sale": 3990,
         "discount_persent": 50
     },
     {
-        "title": "PREDICT MOD",
-        "category": "",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/35089/",
+        "title": "AMPHIB BOLD 2",
+        "category": "Водные виды спорта",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/sandalii_i_akvashuz/56761/",
         "price_base": 7990,
         "price_sale": 5590,
         "discount_persent": 30
@@ -376,17 +392,49 @@
         "discount_persent": 30
     },
     {
-        "title": "AMPHIB BOLD 2",
-        "category": "Водные виды спорта",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/sandalii_i_akvashuz/56761/",
+        "title": "SENSE FEEL 2",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/56492/",
+        "price_base": 7990,
+        "price_sale": 3990,
+        "discount_persent": 50
+    },
+    {
+        "title": "WINGS SKY",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/56678/",
+        "price_base": 11490,
+        "price_sale": 7990,
+        "discount_persent": 30
+    },
+    {
+        "title": "ALPHACROSS BLAST",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/30970/",
         "price_base": 7990,
         "price_sale": 5590,
         "discount_persent": 30
     },
     {
-        "title": "AMPHIB BOLD 2",
-        "category": "",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/sandalii_i_akvashuz/71698/",
+        "title": "ALPHACROSS BLAST",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/12689/",
+        "price_base": 7990,
+        "price_sale": 5590,
+        "discount_persent": 30
+    },
+    {
+        "title": "ALPHACROSS BLAST",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/71637/",
+        "price_base": 7990,
+        "price_sale": 3990,
+        "discount_persent": 50
+    },
+    {
+        "title": "X REVEAL",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/31099/",
         "price_base": 7990,
         "price_sale": 3990,
         "discount_persent": 50
@@ -398,14 +446,6 @@
         "price_base": 10990,
         "price_sale": 7690,
         "discount_persent": 30
-    },
-    {
-        "title": "X REVEAL",
-        "category": "Пеший туризм",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/31099/",
-        "price_base": 7990,
-        "price_sale": 3990,
-        "discount_persent": 50
     },
     {
         "title": "OUTline",
@@ -438,30 +478,6 @@
         "price_base": 7990,
         "price_sale": 5590,
         "discount_persent": 30
-    },
-    {
-        "title": "ALPHACROSS BLAST",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/12689/",
-        "price_base": 7990,
-        "price_sale": 5590,
-        "discount_persent": 30
-    },
-    {
-        "title": "ALPHACROSS BLAST",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/30970/",
-        "price_base": 7990,
-        "price_sale": 5590,
-        "discount_persent": 30
-    },
-    {
-        "title": "ALPHACROSS BLAST",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/71637/",
-        "price_base": 7990,
-        "price_sale": 3990,
-        "discount_persent": 50
     },
     {
         "title": "TECH AMPHIB 4",
@@ -536,14 +552,6 @@
         "discount_persent": 30
     },
     {
-        "title": "WINGS SKY GTX",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/106926/",
-        "price_base": 13990,
-        "price_sale": 6990,
-        "discount_persent": 50
-    },
-    {
         "title": "ODYSSEY MID GTX",
         "category": "Пеший туризм",
         "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/12353/",
@@ -552,12 +560,28 @@
         "discount_persent": 31
     },
     {
-        "title": "X ULTRA 4",
-        "category": "Пеший туризм",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/46605/",
-        "price_base": 10990,
-        "price_sale": 5490,
-        "discount_persent": 50
+        "title": "XA WILD",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/34986/",
+        "price_base": 11490,
+        "price_sale": 3390,
+        "discount_persent": 70
+    },
+    {
+        "title": "XA WILD",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/4240/",
+        "price_base": 11490,
+        "price_sale": 7990,
+        "discount_persent": 30
+    },
+    {
+        "title": "XA WILD",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/35055/",
+        "price_base": 11490,
+        "price_sale": 7990,
+        "discount_persent": 30
     },
     {
         "title": "SUPERCROSS BLAST",
@@ -574,6 +598,22 @@
         "price_base": 9990,
         "price_sale": 4990,
         "discount_persent": 50
+    },
+    {
+        "title": "ALPHACROSS BLAST GTX",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/15372/",
+        "price_base": 9990,
+        "price_sale": 6990,
+        "discount_persent": 30
+    },
+    {
+        "title": "ALPHACROSS BLAST GTX",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/15387/",
+        "price_base": 9990,
+        "price_sale": 2990,
+        "discount_persent": 70
     },
     {
         "title": "XA COLLIDER GTX",
@@ -624,22 +664,6 @@
         "discount_persent": 30
     },
     {
-        "title": "WILDCROSS",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/71530/",
-        "price_base": 11490,
-        "price_sale": 5690,
-        "discount_persent": 50
-    },
-    {
-        "title": "WILDCROSS",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/15576/",
-        "price_base": 11490,
-        "price_sale": 5690,
-        "discount_persent": 50
-    },
-    {
         "title": "SPEEDCROSS VARIO 2",
         "category": "",
         "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/9427/",
@@ -651,22 +675,6 @@
         "title": "SENSE RIDE 3",
         "category": "Трейлраннинг",
         "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/3514/",
-        "price_base": 9990,
-        "price_sale": 6990,
-        "discount_persent": 30
-    },
-    {
-        "title": "ALPHACROSS BLAST GTX",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/15387/",
-        "price_base": 9990,
-        "price_sale": 2990,
-        "discount_persent": 70
-    },
-    {
-        "title": "ALPHACROSS BLAST GTX",
-        "category": "Трейлраннинг",
-        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/15372/",
         "price_base": 9990,
         "price_sale": 6990,
         "discount_persent": 30

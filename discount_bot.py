@@ -26,7 +26,7 @@ async def get_discount_sneakers(message: types.Message):
 
     collect_data()
 
-    with open('result_data.json') as file:
+    with open('result_data.json', encoding='utf-8') as file:
         data = json.load(file)
     for item in data:
         card = f'{hlink(item.get("title"), item.get("link"))} \n' \

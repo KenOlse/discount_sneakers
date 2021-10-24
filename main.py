@@ -63,7 +63,7 @@ def collect_data():
 
 def main():
     # get_page(url='https://salomon.ru/catalog/muzhchiny/obuv')
-    # get_json(url='https://salomon.ru/catalog/muzhchiny/obuv/filter/size-is-10.5%20uk-or-11%20uk/apply/?PAGEN_1=2')
+    get_json(url='https://salomon.ru/catalog/muzhchiny/obuv/filter/size-is-10.5%20uk-or-11%20uk/apply/?PAGEN_1=2')
     collect_data()
 
 

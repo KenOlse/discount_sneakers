@@ -21,9 +21,11 @@ def get_json(url):
     with open('result.json', 'w', encoding='utf-8-sig') as file:
         json.dump(response.json(), file, indent=4, ensure_ascii=False)
 
+
 def collect_data():
     s = requests.Session()
-    response = s.get(url='https://salomon.ru/catalog/muzhchiny/obuv/filter/size-is-10.5%20uk-or-11%20uk/apply/?PAGEN_1=1', headers=headers)
+    response = s.get(
+        url='https://salomon.ru/catalog/muzhchiny/obuv/filter/size-is-10.5%20uk-or-11%20uk/apply/?PAGEN_1=1', headers=headers)
 
     data = response.json()
     pagination_count = data.get('pagination').get('pageCount')
@@ -37,13 +39,12 @@ def collect_data():
 
         data = r.json()
         products = data.get('products')
-
         for product in products:
             product_colors = product.get('colors')
 
             for pc in product_colors:
                 discount_persent = pc.get('price').get('discountPercent')
-                
+
                 if discount_persent != 0 and pc.get('link') not in items_urls:
                     items_urls.append(pc.get('link'))
                     result_data.append(
@@ -55,15 +56,16 @@ def collect_data():
                             'price_sale': pc.get('price').get('sale'),
                             'discount_persent': discount_persent,
                         })
-        print(f'{page_count}/{pagination_count}')
 
+        print(f'{page_count}/{pagination_count}')
 
     with open('result_data.json', 'w', encoding='utf-8') as file:
         json.dump(result_data, file, indent=4, ensure_ascii=False)
 
+
 def main():
     # get_page(url='https://salomon.ru/catalog/muzhchiny/obuv')
-    #get_json(url='https://salomon.ru/catalog/muzhchiny/obuv/filter/size-is-10.5%20uk-or-11%20uk/apply/?PAGEN_1=2')
+    # get_json(url='https://salomon.ru/catalog/muzhchiny/obuv/filter/size-is-10.5%20uk-or-11%20uk/apply/?PAGEN_1=2')
     collect_data()
 
 
